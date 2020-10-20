@@ -5,7 +5,7 @@ const coming = document.getElementById('coming')
 const reserve = document.getElementById('reserve')
 
 
-const initialize = async () => {
+const initialize = () => {
   getme.onclick = () => {
     window.location = 'home.html'
   }
