@@ -7,7 +7,7 @@ const initialize = async () => {
   const newAccounts = await ethereum.request({
     method: 'eth_accounts',
   })
- function getbalance () {
+  function getbalance () {
     try {
       // const user_borrow = await web3.eth.getBalance(account,
       // balance(user_borrow)
