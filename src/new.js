@@ -16,7 +16,7 @@ const initialize = async () => {
   //   networkDiv.innerHTML = networkId
   // }
 
-  async function getbalance () {
+  function getbalance () {
     try {
       // const user_borrow = await web3.eth.getBalance(account,
       // balance(user_borrow)
