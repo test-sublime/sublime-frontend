@@ -8,12 +8,10 @@ module.exports = {
   mode: 'development',
   entry: {
     index: './src/index.js',
-    new: './src/new.js',
     deposit: './src/deposit.js',
     borrow_final: './src/borrow_final.js',
     token: './src/token.js',
     withdrawn: './src/withdrawn.js',
-    depositt: './src/depositt.js',
     enter: './src/enter.js',
 
     // app: ['./src/index.js', './src/new.js'],
